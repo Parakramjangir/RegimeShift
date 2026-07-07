@@ -1,1 +1,11 @@
-
+numpy
+pandas
+matplotlib
+yfinance
+scipy
+scikit-learn
+hmmlearn
+cvxpy
+joblib
+notebook
+ipykernel
